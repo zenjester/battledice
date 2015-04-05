@@ -6,4 +6,5 @@ need to find a way to generate text
 28.03.15
 Thinking about changing the interface to Qt but will prototype in tkinter?
 Added docstring
-
+05.04.15
+Pycharm integration test
