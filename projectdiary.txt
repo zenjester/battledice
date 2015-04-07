@@ -8,3 +8,5 @@ Thinking about changing the interface to Qt but will prototype in tkinter?
 Added docstring
 05.04.15
 Pycharm integration test
+07.04.15
+New Fedora installation
