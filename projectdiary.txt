@@ -12,3 +12,4 @@ Pycharm integration test
 New Fedora installation
 21.04.15
 cloned to little fed laptop
+need to look at TK not tkinter logging app (looaded on Diigo)
