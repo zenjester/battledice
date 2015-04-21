@@ -4,4 +4,4 @@
 import random
 
 def dirRoll(val):
-    return (random.randint(1,val))
+    return str((random.randint(1,val)))

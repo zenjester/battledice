@@ -18,7 +18,7 @@ turn = 0  # turn variable
 playerTxt = playerCreate()
 aiTxt = compCreate()
 msgTxt = 'Welcome to the game'
-rollTxt = 'the roll is ' + str(dieRoller.dirRoll(4))
+rollTxt = 'the roll is ' + dieRoller.dirRoll(6)
 app = tkinter.Tk()
 # set up widgets area
 playerArea = tkinter.Text(app, height=23, width=50, bg='green', fg='white')
@@ -28,7 +28,8 @@ rollArea = tkinter.Text(app, height=10, width=50, bg='yellow')
 playerArea.insert(1.0, 'Player Team\n')
 playerArea.insert(2.0, playerTxt)
 aiArea.insert(2.9, aiTxt)
-msgArea.insert(0.0, msgTxt)
+msgArea.insert('1.0', msgTxt)
+msgArea.insert('2.0', msgTxt)
 rollArea.insert(0.0, rollTxt)
 turnBtn = tkinter.Button(app, text='Next Turn', width=10)
 saveBtn = tkinter.Button(app, text='save', width=10)
