@@ -10,3 +10,5 @@ Added docstring
 Pycharm integration test
 07.04.15
 New Fedora installation
+21.04.15
+cloned to little fed laptop
