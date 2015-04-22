@@ -15,5 +15,5 @@ cloned to little fed laptop
 need to look at TK not tkinter logging app (loaded on Diig0)
 22.04.15
 replaced msg text with new log text need to update other windows to use the code
-#can we pass the window?
+#can we pass the window? -yes
 #can we pass the number of lines?
